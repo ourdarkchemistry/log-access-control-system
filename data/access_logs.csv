@@ -1,0 +1,8 @@
+timestamp,user_id,action,location,result
+2023-10-15 09:00:00,12345,login,Samara,success
+2023-10-15 09:05:00,12345,login,Samara,failed
+2023-10-15 09:10:00,12345,login,Samara,failed
+2023-10-15 09:15:00,12345,login,Samara,success
+2023-10-15 10:00:00,67890,login,Samara,failed
+2023-10-15 10:05:00,67890,login,Samara,failed
+2023-10-15 10:10:00,67890,login,Samara,failed
